@@ -5,6 +5,7 @@ Latest Version: [Organic Rx - v1.0.0](https://github.com/IamJamieX/Organic-Rx/re
 
 ### FEATURES
   * Lua Executor (6/7 - whatever krnl+wad is)
+  * Monaco
   * Script Hub (Over 50 Scripts)
   * Internal UI option
   * FPS Unlocker
