@@ -2,6 +2,7 @@
 Free multi exploit tool for roblox!
 
 Latest Version: [Organic Rx - v1.0.0](https://github.com/IamJamieX/Organic-Rx/releases/tag/v1.0.0 "Latest Version of Organix Rx")
+#### (KrnlAPI Updated May-09-2022)
 
 ### FEATURES
   * Lua Executor (6/7 - whatever krnl+wad is)
